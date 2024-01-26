@@ -1,2 +1,0 @@
-settlement.service.endpoint=lb://settlement-service
-settlement.service.settl-transaction=api/v1/settl-transaction
